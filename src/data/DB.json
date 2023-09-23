@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Prvi",
+      "body": "Prvi hibwefiubwefweuf",
+      "author": "Mika"
+    },
+    {
+      "id": 2,
+      "title": "Drugi",
+      "body": "Drugi hibwefiubwefweuf",
+      "author": "Pera"
+    },
+    {
+      "id": 3,
+      "title": "Treci",
+      "body": "Treci hibwefiubwefweuf",
+      "author": "Ana"
+    },
+    {
+      "id": 4,
+      "title": "Cetvrti",
+      "body": "Cetvrti hibwefiubwefweuf",
+      "author": "Mika"
+    },
+    {
+      "title": "ytj",
+      "body": "jty",
+      "author": "Mika",
+      "id": 5
+    },
+    {
+      "title": "rw",
+      "body": "fr",
+      "author": "Mika",
+      "id": 7
+    }
+  ]
+}
